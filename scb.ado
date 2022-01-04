@@ -119,7 +119,6 @@ program scberror
 end
 
 program scbhelp
-
 	di _newline "--------------------------------------------------------------------------------" 
 	di " SCB-PROGRAMMET"
 	di _newline "  Programmet gör det möjligt att ladda ner aktuell"
@@ -130,5 +129,4 @@ program scbhelp
 	di _newline "      ex. scb JO JO1104 F1NY"
 	di _newline "  Programmet kräver att du har installerat {stata ssc describe libjson:libjson} och {stata ssc describe insheetjson:insheetjson}."
 	di _newline "--------------------------------------------------------------------------------" _newline 
-
 end
