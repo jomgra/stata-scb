@@ -1,6 +1,6 @@
 # stata-scb
 
-Stata-program som listar tillgänliga SCB-tabeller och laddar ner de som väljs. Allt sker via SCBs API. S
+Stata-program som listar tillgänliga SCB-tabeller och laddar ner de som väljs. Allt sker via SCBs API.
 
 Installation
 
@@ -12,4 +12,4 @@ Installation
 
 Buggar
 
-Det finns en del problem med koden och alla dataset laddar inte in exakt som tänkt. 
+Det finns en del problem med koden och alla dataset laddar inte in exakt som tänkt. Förbättra gärna.
